@@ -18,13 +18,13 @@
 
 ### Credits for Groups and people, who made this possible:
 
- - **Rojo** for *rbx_xml*, *rbx_binary* & *rbx_dom_weak* (rbx_dom - MIT Liсense)
+ - **Rojo** for *rbx_xml*, *rbx_binary* & *rbx_dom_weak* (rbx_dom - MIT License)
  - **Anaminus** for name just as *rbxmk* (rbxmk - MIT License)
  - **seanmonstar** for *reqwest* (reqwest - MIT License)
  - **w-8** for *logstr* (logstr - MIT License)
  - **open-source-cooperative** for *keyring* (keyring - MIT License)
  - **serde-rs** for *serde* & *serde_json* (serde & serde_json - MIT License)
- - **toml-rs** for *toml* (toml - MIT Lisence)
+ - **toml-rs** for *toml* (toml - MIT License)
  - **rust-lang** for *hashbrown*, *flate2* & ***Rust*** (hashbrown - MIT License)
  - **tokio-rs** for *tokio* (tokio - MIT License)
  - **image-rs** for *image* (image - MIT License)
@@ -35,7 +35,7 @@
  - **DunnoConz** for *roblox-rs-core* (roblox-rs-core - MIT License)
  - **gronke** for *npm-utils* (npm-utils - MIT License)
  - **PolyMeilex** for *rfd* (rfd - MIT License)
- - **outofbears** for *romesh* (MIT License)
+ - **outofbears** for *romesh* (romesh - MIT License)
  - **hoodie** for *notify-rust* (notify-rust - MIT License)
  - **pjankiewicz** for *luaur* (luaur - MIT License)
  - **composefs** for *tar* (tar - MIT License)
