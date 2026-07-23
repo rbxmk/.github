@@ -2,7 +2,7 @@
 
 ## rbxmkstudio project
 
-*An absolute official open-source alternative to Roblox Studio*
+*An absolute open-source alternative to Roblox Studio*
 
 ## rbxmkFileFormat project
 
