@@ -28,7 +28,6 @@
  - **rust-lang** for *hashbrown*, *flate2* & ***Rust*** (hashbrown - MIT License)
  - **tokio-rs** for *tokio* (tokio - MIT License)
  - **image-rs** for *image* (image - MIT License)
- - **fekie** for *roboat* (roboat - MIT License)
  - **Sleitnick** for *rbxcloud* (rbxcloud - MIT License)
  - **zed-industries** for *GPUI* & *GPUI-platform* (GPUI & GPUI-platform - Apache 2.0 License)
  - **longbridge** for *gpui-component* (gpui-component - Apache 2.0 License)
