@@ -30,7 +30,6 @@
  - **pjankiewicz** for *luaur*, *luaur-rt* & *luaur-vm* (luaur - MIT License)
  - **composefs** for *tar* (tar - MIT License)
  - **mateioprea** for *lucide-gpui* (lucide-gpui - MIT License)
- - **enki** for *libbun* (libbun - Apache 2.0 License)
  - **manuel-woelker** for *vfs* (vfs - Apache 2.0 License)
  - **gltf-rs** for *gltf* (gltf - MIT License)
  - **bevyengine** for *bevy* (bevy - MIT License)
