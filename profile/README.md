@@ -4,17 +4,9 @@
 
 *An absolute open-source alternative to Roblox Studio*
 
-## rbxmkFileFormat project
-
-*parse & build Roblox files into or from program's array*
-
 ## rbxmkbuild project
 
 *It's a build system for open-source rbxmkstudio projects*
-
-## rocloudstore project
-
-*Communicate with the Official Roblox API*
 
 ### Credits for Groups and people, who made this possible:
 
@@ -30,17 +22,19 @@
  - **image-rs** for *image* (image - MIT License)
  - **Sleitnick** for *rbxcloud* (rbxcloud - MIT License)
  - **zed-industries** for *GPUI* & *GPUI-platform* (GPUI & GPUI-platform - Apache 2.0 License)
- - **longbridge** for *gpui-component* (gpui-component - Apache 2.0 License)
- - **DunnoConz** for *roblox-rs-core* (roblox-rs-core - MIT License)
+ - **longbridge** for *gpui-kit* (gpui-kit - Apache 2.0 License)
  - **gronke** for *npm-utils* (npm-utils - MIT License)
  - **PolyMeilex** for *rfd* (rfd - MIT License)
  - **outofbears** for *romesh* (romesh - MIT License)
  - **hoodie** for *notify-rust* (notify-rust - MIT License)
- - **pjankiewicz** for *luaur* (luaur - MIT License)
+ - **pjankiewicz** for *luaur*, *luaur-rt* & *luaur-vm* (luaur - MIT License)
  - **composefs** for *tar* (tar - MIT License)
+ - **mateioprea** for *lucide-gpui* (lucide-gpui - MIT License)
  - **enki** for *libbun* (libbun - Apache 2.0 License)
+ - **manuel-woelker** for *vfs* (vfs - Apache 2.0 License)
  - **gltf-rs** for *gltf* (gltf - MIT License)
  - **bevyengine** for *bevy* (bevy - MIT License)
+ - **stainless-steel** for *sqlite* (sqlite - MIT License)
  - **jaemk** for *self_update* (self_update - MIT License)
  - **rust-mcp-stack** for *rust-mcp-sdk* (rust-mcp-sdk - MIT License)
  - **asny** for *three-d* (three-d - MIT License)
