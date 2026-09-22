@@ -10,6 +10,10 @@
 
 ### Credits for Groups and people, who made this possible:
 
+#### For rbxmkstudio & rbxmkbuild:
+
+##### Rust packages with *cargo*:
+
  - **Rojo** for *rbx_xml*, *rbx_binary* & *rbx_dom_weak* (rbx_dom - MIT License)
  - **Anaminus** for name just as *rbxmk* (rbxmk - MIT License)
  - **seanmonstar** for *reqwest* (reqwest - MIT License)
@@ -45,3 +49,17 @@
  - **chronotope** for *chrono* (chrono - MIT License)
  - **mackwic** for *colored* (colored - MPL-2.0 License)
  - **Detegr** for *ctrlc* (ctrlc - MIT License)
+
+#### For servers and sub-servers:
+
+##### PHP packages with *composer*:
+
+ - **Unitpay** for *php-sdk* (php-sdk - MIT License)
+ - **react** for *socket* & *http* (socket & http - MIT License)
+ - **vlucas** for *phpdotenv* (phpdotenv - BSD 3-Clause License)
+
+##### C++ packages with *vcpkg* (project built with *CMake*):
+
+ - **yhirose** for *cpp-httplib* (cpp-httplib - MIT License)
+ - **SRombauts** for *SQLiteC++* (SQLiteC++ - MIT License)
+
